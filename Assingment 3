@@ -1,0 +1,118 @@
+// Question 1
+
+// var num1 = 5;
+// var num2 = 3;
+// alert(num1+num2);
+ 
+
+// Question 2
+// var num1 = 5;
+// var num2 = 3;
+// alert(num1-num2)
+
+// var num1 = 5;
+// var num2 = 3;
+// alert(num1*num2)
+
+// var num1 = 5;
+// var num2 = 3;
+// alert(num1/num2)
+
+// var num1 = 5;
+// var num2 = 3;
+// alert(num1>num2)
+
+// Question 3a
+// var num1 = 1;
+
+// Question 3b
+// var num1 = "Value after variable declaration is: ??.";
+// alert(num1)
+
+// Question 3c
+// var num1 = 7 + 9;
+// alert(num1)
+
+// Question 3d
+// var num1;
+// num1 = 5;
+// alert("initial value: "+ num1)
+
+// Question 3e
+// var num1 = 5;
+// alert(++num1)
+
+// Question 3f
+// var num1 = 5;
+// alert("Value after increament is " + ++num1)
+
+// Question 3g
+// var num1 = 5;
+// alert(num1 + 7)
+
+// Question 3h
+// var num1 = 6;
+// var num2 = 7;
+// var sum = num1 + num2;
+// alert("Value after addition is " + sum)
+
+// Question 3i
+// var num1 = 5;
+// alert(--num1)
+
+// Question 3j
+// var num1 = 5;
+// alert("Value after decreament is " + --num1)
+
+// Question 3k
+// var num1 = 6;
+// var num2 = 3;
+// sum = num1 % num2 
+// alert("The remainder is " + sum)
+
+// Question 4
+// var num1 = 600;
+// var num2 = prompt("how many tickets you want");
+// alert("Total cost of movie is " + num1 * num2 + " PKR")
+
+// Question 5
+// document.write("<h1>","Table of 4" ,"</h1>");
+// var num1 = 4;
+// var sum1 =(4 * 1);
+// document.write("<h3>","4 x 1 = " +  sum1 , "</h3>" );
+
+// var num2 = 4;
+// var sum2 =(4 * 2);
+// document.write("<h3>","4 x 2 = " +  sum2 , "</h3>",);
+
+// var num3 = 4;
+// var sum3 =(4 * 3);
+// document.write("<h3>","4 x 3 = " +  sum3 , "</h3>");
+
+// var num4 = 4;
+// var sum4 =(4 * 4);
+// document.write("<h3>","4 x 4 = " +  sum4 , "</h3>");
+
+// var num5 = 4;
+// var sum5 =(4 * 5);
+// document.write("<h3>","4 x 5 = " +  sum5 , "</h3>");
+
+// var num6 = 4;
+// var sum6 =(4 * 6);
+// document.write("<h3>","4 x 6 = " +  sum6 , "</h3>");
+
+// var num7 = 4;
+// var sum7 =(4 * 7);
+// document.write("<h3>","4 x 7 = " +  sum7 , "</h3>");
+
+// var num8 = 4;
+// var sum8 =(4 * 8);
+// document.write("<h3>","4 x 8 = " +  sum8 , "</h3>");
+
+// var num9 = 4;
+// var sum9 =(4 * 9);
+// document.write("<h3>","4 x 9 = " +  sum9 , "</h3>");
+
+// var num10 = 4;
+// var sum10 =(4 * 10);
+// document.write("<h3>","4 x 10 = " +  sum10 , "</h3>");
