@@ -1,0 +1,390 @@
+// question 1
+// var city = prompt("Enter your city");
+// if(city==="karachi"){
+// alert("welcome to karachi")
+// }
+
+// question 2
+// var gender = prompt("Enter your gender")
+
+// if(gender==="male"){
+// alert("good morning sir");
+// }
+// if(gender==="female"){
+// alert("good morning Ma'am");
+// }
+// else{
+//   alert("Bech k nikal ja")
+// }
+
+// question 3
+// var signal = prompt("Enter signal color")
+
+// if(signal==="red"){
+// alert("must stop");
+// }
+// else if(signal==="yellow"){
+// alert("ready to move");
+// }
+// else if(signal==="green"){
+//     alert("move now");
+// }
+// else{
+//   alert("Sabar karle")
+// }
+
+// question 4
+// var fuel = prompt("Enter your fuel quantity")
+// if(fuel<0.25){
+// alert("refill your car");
+// }
+// else{
+//   alert("jari rakho")
+// }
+// var a = 4;
+// if (++a === 5){
+// alert("given condition for variable a is true");
+// }
+// var b = 82;
+// if (b++ === 83){
+// alert("given condition for variable b is true");
+// }
+// var c = 12;
+// if (c++ === 13){
+// alert("condition 1 is true");
+// }
+// if (c === 13){
+// alert("condition 2 is true");
+// }
+// if (++c < 14){
+// alert("condition 3 is true");
+// }
+// if(c === 14){
+// alert("condition 4 is true");
+// }
+// var materialCost = 20000;
+// var laborCost = 2000;
+// var totalCost = materialCost + laborCost;
+// if (totalCost === laborCost + materialCost){
+// alert("The cost equals");
+// }
+// if (true){
+// alert("True");
+// }
+// if (false){
+// alert("False");
+// }
+// if("car" < "cat"){
+// alert("car is smaller than cat");
+// // }
+
+// question 6
+
+// var subject = prompt("Enter subject number")
+// if(subject>="80"){
+// alert("A-one");
+// alert("Excellent")
+// }
+// var subject = prompt("Enter subject number")
+// if(subject>="70"){
+// alert("A");
+// alert("Good")
+// }
+// var subject = prompt("Enter subject number")
+// if(subject>="60"){
+// alert("B");
+// alert("you need to improve")
+// }
+// var subject = prompt("Enter subject number")
+// if(subject<"60"){
+// alert("Fail");
+// alert("Sorry")
+// }
+// document.write("<h1>Marks sheet</h1><h5>Total Marks=300</h5><h5>Marks Obtained=219</h5><h5>Percentage=73%</h5><h5>Grade=B</h5><h5>Remarks=You need to improve</h5>")
+
+// q7
+
+// var secretnumber= prompt("Enter secret number")
+// if(secretnumber==="3"){
+//     alert(" Bingo! Correct answer.")
+// }
+// else{
+//     secretnumber===1
+//     alert("“Close enough to the correct answer”.")
+// }
+
+// q8
+
+// let num = prompt("Enter a number: ");
+
+// if (num % 3 === 0) {
+//   alert(num + " is divisible by 3.");
+// } else {
+//   alert(num + " is not divisible by 3.");
+// }
+
+// q9
+
+// var num = prompt("Enter a number: ");
+
+// if (num % 2 === 0) {
+//   alert(num + " Is a even number");
+// } else {
+//   alert(num + " Is a odd number.");
+// }
+
+// q10
+
+// var tempt = prompt("Enter temprature");
+
+// if (tempt > 40) {
+//   alert("It is too hot outside.");
+// }
+// else if(tempt > 30){
+//   alert("The Weather today is Normal.")
+// }
+// else if(tempt > 20){
+//   alert("Today’s Weather is cool.")
+// }
+// else if(tempt > 10){
+//   alert("OMG! Today’s weather is so Cool.")
+// }
+// else {
+//   alert("Temprature is like freezing");
+// }
+
+// q11
+
+// var num = prompt("Enter your number");
+// var operator = prompt("enter operator");
+// var num2 = prompt("Enter second number");
+// if (operator === "+") {
+//   alert(num + num2);
+// }
+// else if(operator === "-"){
+//   alert(num - num2)
+// }
+// else if(operator === "*"){
+//   alert(num * num2)
+// }
+// else if(operator === "/"){
+//   alert(num / num2)
+// }
+// else if(operator === "%"){
+//   alert(num % num2)
+// }
+// else {
+//   alert("Nan");
+// }
+
+// 1. Write a program that takes a character (number or string)
+// in a variable & checks whether the given input is a
+// number, uppercase letter or lower case letter. (Hint: ASCII
+// codes:- A=65, Z=90, a=97, z=122).
+
+
+
+
+
+// //Chapter 11 & 12 
+//// Q1
+// var num = prompt("Enter your character");
+// if (num === "a" ) {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "b" ) {
+//   alert("this is lower case letter ");
+// }
+
+// else if (num === "c" ) {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "d" ) {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "e" ) {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "f" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "g" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "h" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "i" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "j" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "k" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "l" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "m" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "n" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "o" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "q" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "r" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "s" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "t" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "u" )
+// {
+// alert("this is lower case letter ");
+// }
+// else if (num === "v" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "w" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "x" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "y" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "z" )
+// {
+//   alert("this is lower case letter ");
+// }
+// else if (num === "A" )
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "B" )
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "C" )
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "D" )
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "E" )
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "F" )
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "G" )
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "H" ) 
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "I" ) 
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "J" )
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "K" ) 
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "L" ) 
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "M" ) 
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "N" ) 
+//  {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "O" ) 
+// {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "P" ) {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "Q" ) {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "R" ) {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "S" ) {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "T" ) {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "U" ) {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "V" ) {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "W" ) {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "X" ) {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "Y" ) {
+//   alert("this is upper case letter ");
+// }
+// else if (num === "Z" ) {
+//   alert("this is upper case letter ");
+// }
+// else if(num === "0"){
+//   alert("this is a Zero")
+// }
+//  else if (num > 0 ) {
+//   alert("this is a positive number");
+// }
+// else if (num <= 0){
+//   alert("this is a negative number")
+// }
+// else {alert("this is special character")}
