@@ -1,0 +1,83 @@
+//q1
+// var array = ['umar','usman','ali'];
+
+//q2
+// var studentNames = [];
+
+//q3
+//var stringsArray = new Array("string1", "string2", "string3");
+
+//q4
+// var numbersArray = [1, 2, 3, 4, 5];
+
+//q5
+//var booleanArray = [true, false, true, false, true];
+
+//q6
+//var mixedArray = [1, "two", true,];
+
+//q7
+//var qualification = ['SSC','HSC','PHD'];
+
+// //q8
+// var studentNames = ['Umar','Usman','Ali']
+// var studentScores = ['500','400','480']
+
+// var totalmarks1 =(studentScores[0]/500*100)
+// var totalmarks2 =(studentScores[1]/500*100)
+// var totalmarks3 =(studentScores[2]/500*100)
+
+// var final1 =['score of Umar is' + " " + studentScores[0] + ". " + 'Percentages= ' + totalmarks1 ]
+// var final2 =['score of Usman is'+ " " + studentScores[1] + ". " + 'Percentages= ' + totalmarks2 ]
+// var final3 =['score of Ali is'  + " " + studentScores[2] + ". " + 'Percentages= ' + totalmarks3 ]
+// var final =[final1 ,final2, final3];
+
+// console.log(final)
+
+//q9
+// // Initialize an array with color names
+// var colors = ["Red", "Green", "Blue"];
+// console.log("Initial Array: " + colors);
+
+// a
+// var newColor = prompt("What color do you want to add to the beginning?");
+// colors.unshift(newColor);
+// console.log("Array with added color at the beginning: " + colors);
+
+//b
+// var newColor = prompt("What color do you want to add to the end?");
+// colors.push(newColor);
+// console.log("Array with added color at the end: " + colors);
+
+//c
+// colors.unshift("Purple", "Orange");
+// console.log("Array with added colors at the beginning: " + colors);
+
+// d
+// colors.shift();
+// console.log("Array after deleting first color: " + colors);
+
+// e
+// colors.pop();
+// console.log("Array after deleting last color: " + colors);
+
+// f
+// var index = prompt("At which index do you want to add a color?");
+// var colorToAdd = prompt("What color do you want to add?");
+// colors.splice(index, 0, colorToAdd);
+// console.log("Array after adding color: " + colors);
+
+// g
+// var index = prompt("At which index do you want to delete color(s)?");
+// var numberOfColors = prompt("How many colors do you want to delete?");
+// colors.splice(index, numberOfColors);
+// console.log("Array after deleting color(s): " + colors);
+
+//q10
+// var scoreOfStudents = [100, 300, 500, 400, 200];
+
+// scoreOfStudents.sort(function (a, b) {
+//   return a - b;
+// });
+
+// console.log(scoreOfStudents);
